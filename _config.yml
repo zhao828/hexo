@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: thzsBlog
 subtitle:
 description:
 keywords:
-author: John Doe
+author: Thzs
 language: zh-CN
 timezone:
 
@@ -79,3 +79,4 @@ theme: fluid
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
